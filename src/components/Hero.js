@@ -5,12 +5,12 @@ function Hero() {
   return (
     <div
       className="img-hero mb-5 p-5 text-center bg-image"
-      style={{ backgroundImage: "url('/images/cooking-1.jpg')", height: 400 }}
-    >
+      style={{ backgroundImage: "url('/images/cooking-1.jpg')", height: 400 }}>
+      
       <div className="row">
         <div className="col-lg-6 mb-5">
           <h2 className="text-white mb-3">
-            Unleash your inner chef with our amazing & simple recipes.
+            Unleash your inner chef with our delicious recipes.
           </h2>
           <button
             type="button"
