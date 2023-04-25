@@ -28,7 +28,7 @@ function Hero() {
       
           <div className="col-12 col-md-6" >
             <div class="text-center">
-              <img class="welcome-img" src="/logo192.png" alt="..."></img>
+              <img class="hero-img" src="images/pancakes.jpg" alt="..."></img>
             </div>
           </div>
         </div>

@@ -55,9 +55,10 @@ p {
 
 }
 
-.img-hero {
-  width: 100%;  
-  size: 20%;
+.hero-img {
+  width: 60%;
+  opacity: 0.8;
+  border-radius: 10%;
 }
 
 
